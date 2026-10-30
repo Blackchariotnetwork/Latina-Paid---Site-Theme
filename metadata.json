@@ -1,0 +1,8 @@
+{
+  "name": "Velour Noir - Adult Paysite & Premium Creator Theme",
+  "description": "Luxury Latina creator paysite theme featuring secure subscription tiers, customizable 4K UHD galleries, Latin American boudoir cinema, adaptive video streaming, and multi-gateway payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
